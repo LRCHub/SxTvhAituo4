@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "舌打ち",
+  "base_artist": "syudou",
+  "createdAt": "2026-02-21T12:08:12.822064Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "舌打ち",
+      "artist": "22/7",
+      "has_synced": false,
+      "path": "select/01_舌打ち_22_7.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "舌打ち",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_01_舌打ち_syudou.txt"
+    }
+  ]
+}
